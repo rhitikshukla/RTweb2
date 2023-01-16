@@ -68,9 +68,3 @@ KNOWN&nbsp;&nbsp;&nbsp;:<BR>
 </DIV>
 </BODY>
 </HTML>
-OUTPUT:
-
-
-
-RESULT:
-	The form application has been created successfully and their output has been verified.
